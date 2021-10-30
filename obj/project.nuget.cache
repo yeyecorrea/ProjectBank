@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FP9IvNRFN0LJ1Q68m8XSQika/SORSM1FkXomFvd9H4Ig9IXg45yadvS0w3ZFNHL+kevryhLo16fAXW8XD+93cQ==",
+  "dgSpecHash": "49vdQu2JdQvut5UqfOwq4zX7lGhL6IDE2BW+yk+rohH35u5azcfqP+GdZwXYABVDdLmb6gUhnawMFCIpo+jp4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\EQUIPO\\Documents\\Yeferson\\ProjectBank\\ProjectBank.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
