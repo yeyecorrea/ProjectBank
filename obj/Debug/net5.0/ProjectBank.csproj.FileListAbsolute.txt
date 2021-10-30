@@ -1,0 +1,16 @@
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.exe
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.deps.json
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.runtimeconfig.json
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.runtimeconfig.dev.json
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.dll
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ref\ProjectBank.dll
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\bin\Debug\net5.0\ProjectBank.pdb
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.dll
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ref\ProjectBank.dll
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.pdb
+C:\Users\EQUIPO\Documents\Yeferson\ProjectBank\obj\Debug\net5.0\ProjectBank.genruntimeconfig.cache
